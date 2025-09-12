@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+joblib
+tldextract
+requests
+beautifulsoup4
+fastapi
+uvicorn
+shap
+matplotlib
+
+
