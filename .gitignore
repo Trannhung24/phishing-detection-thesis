@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Models
+models/*.pkl
+
+# Data (processed & external, giữ raw)
+data/processed/*
+data/external/*
+
+# System files
+.DS_Store
+Thumbs.db
